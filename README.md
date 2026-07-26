@@ -1,44 +1,25 @@
-# Personal Portfolio Website
+# 🌐 My First Web Development Project
 
-A simple and responsive personal portfolio website built using **HTML** and **CSS**. This project showcases a clean layout with essential sections to introduce myself and provide contact information.
+## Personal Portfolio Website
 
-## Features
+This is my first web development project built using HTML and CSS.
 
-- 🏠 Home page with a personal introduction
-- 📩 Contact page for getting in touch
-- 🎨 Clean and minimal user interface
-- 📱 Basic responsive design using CSS
-- ⚡ Lightweight and easy to navigate
+### Features
+- Responsive Portfolio Website
+- About Me
+- My Interests
+- My Projects
+- Contact Page
 
-## Technologies Used
-
+### Technologies Used
 - HTML5
 - CSS3
 
-## Project Structure
+### Live Website
+https://kavi-kp.github.io/portfolio-simple-website/
 
-```
-portfolio/
-│── index.html
-│── contact.html
-│── style.css
-└── assets/
-```
+### GitHub Repository
+https://github.com/Kavi-kp/portfolio-simple-website
 
-## Pages
-
-- **Home:** Displays a brief introduction and portfolio overview.
-- **Contact:** Provides contact details and a simple way for visitors to reach out.
-
-## Purpose
-
-This project was created to practice the fundamentals of web development using HTML and CSS while building a basic personal portfolio website.
-
-## Future Improvements
-
-- Add Projects section
-- Add About Me page
-- Improve responsiveness
-- Include animations and transitions
-- Add JavaScript for interactivity
+Thank you for visiting my first project! 😊
 
